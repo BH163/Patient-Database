@@ -1,0 +1,4 @@
+// stores employee username,password
+bobRN,BOB1
+SarahMichMD,Sd123
+Timmy,TIMBO123123
